@@ -1,10 +1,10 @@
 applications:
 # WARNING: Only hyphen are supported in hostname. Don't add any dot.
-- host: app0
+- host: td7fr
   disk: 256M
   name: app0
   path: ./WebContent
-  domain: bpshparis.eu-gb.mybluemix.net
+  domain: eu-gb.mybluemix.net
   mem: 256M
   instances: 1
   services:
